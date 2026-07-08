@@ -64,8 +64,8 @@ jobs:
   - type: "activeScan"
     parameters:
       user: "admin"
-      maxScanDurationInMins: 15
-      maxRuleDurationInMins: 3
+      maxScanDurationInMins: 10
+      maxRuleDurationInMins: 2
 
   - type: "report"
     parameters:
