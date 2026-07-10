@@ -33,3 +33,6 @@ node_modules/
 .venv/
 .DS_Store
 *.swp
+
+# Lab 10 local DefectDojo clone/runtime
+labs/lab10/work/
